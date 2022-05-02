@@ -2,7 +2,7 @@
 
 Gem::Specification.new do |s|
   s.name        = 'mygem'
-  s.version     = '1.0.1'
+  s.version     = '1.0.2'
   s.summary     = 'mygem!'
   s.description = 'A simple hello world gem'
   s.authors     = ['s-anupam']
